@@ -1,0 +1,1287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rct.gif|http://www.lineup.tv.br/canais/tvers.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC SD">
+    <display-name lang="es">AMC SD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Animal Planet [Alter]">
+    <display-name lang="pt">Animal Planet HD [Alter]</display-name>
+    <icon src="http://www.lineup.tv.br/canais/culturapaulista.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet SD">
+    <display-name lang="pt">Animal Planet SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190221000000 -0400" stop="20190221005300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Planeta Macaco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221005300 -0400" stop="20190221014600 -0400" channel="Animal Planet SD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221014600 -0400" stop="20190221023800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221023800 -0400" stop="20190221033000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Luta Pelos Orangotangos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221033000 -0400" stop="20190221042400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Os Reis da Selva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221042400 -0400" stop="20190221051800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Índia: Natureza Revelada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221051800 -0400" stop="20190221054800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221054800 -0400" stop="20190221063900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221063900 -0400" stop="20190221073000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221073000 -0400" stop="20190221082100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221082100 -0400" stop="20190221091400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Com Terra até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221091400 -0400" stop="20190221100700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Com Terra até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221100700 -0400" stop="20190221110000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Com Terra até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221110000 -0400" stop="20190221112600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221112600 -0400" stop="20190221121700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221121700 -0400" stop="20190221124200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221124200 -0400" stop="20190221130900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Instinto de Sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221130900 -0400" stop="20190221140200 -0400" channel="Animal Planet SD">
+    <title lang="pt">França Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221140200 -0400" stop="20190221145500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221145500 -0400" stop="20190221154800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221154800 -0400" stop="20190221164100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221164100 -0400" stop="20190221173400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Tubarões vs. Crocodilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221173400 -0400" stop="20190221180000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221180000 -0400" stop="20190221182600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221182600 -0400" stop="20190221185100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221185100 -0400" stop="20190221194300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221194300 -0400" stop="20190221203400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221203400 -0400" stop="20190221212500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221212500 -0400" stop="20190221221600 -0400" channel="Animal Planet SD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221221600 -0400" stop="20190221230700 -0400" channel="Animal Planet SD">
+    <title lang="pt">SOS VET</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190221230700 -0400" stop="20190222000000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Perdido no México</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222000000 -0400" stop="20190222005300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Perdido na África</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222005300 -0400" stop="20190222014600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222014600 -0400" stop="20190222023800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222023800 -0400" stop="20190222033000 -0400" channel="Animal Planet SD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222033000 -0400" stop="20190222042400 -0400" channel="Animal Planet SD">
+    <title lang="pt">SOS VET</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222042400 -0400" stop="20190222051800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Perdido no México</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222051800 -0400" stop="20190222054800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222054800 -0400" stop="20190222063900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222063900 -0400" stop="20190222073000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222073000 -0400" stop="20190222082100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulheiros da Natureza</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222082100 -0400" stop="20190222091400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222091400 -0400" stop="20190222100700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222100700 -0400" stop="20190222110000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222110000 -0400" stop="20190222112600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222112600 -0400" stop="20190222121700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222121700 -0400" stop="20190222124200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222124200 -0400" stop="20190222130900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Instinto de Sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222130900 -0400" stop="20190222140200 -0400" channel="Animal Planet SD">
+    <title lang="pt">França Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222140200 -0400" stop="20190222145500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222145500 -0400" stop="20190222154800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222154800 -0400" stop="20190222164100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222164100 -0400" stop="20190222173400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Ilhas Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222173400 -0400" stop="20190222180000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222180000 -0400" stop="20190222182600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222182600 -0400" stop="20190222185100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222185100 -0400" stop="20190222194300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222194300 -0400" stop="20190222203400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222203400 -0400" stop="20190222212500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222212500 -0400" stop="20190222221600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222221600 -0400" stop="20190222230700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190222230700 -0400" stop="20190223000000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223000000 -0400" stop="20190223005300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223005300 -0400" stop="20190223014600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223014600 -0400" stop="20190223023800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223023800 -0400" stop="20190223033000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223033000 -0400" stop="20190223042400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223042400 -0400" stop="20190223051800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223051800 -0400" stop="20190223054800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223054800 -0400" stop="20190223063900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223063900 -0400" stop="20190223073000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223073000 -0400" stop="20190223082100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Dra. Dee: Veterinária do Alasca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223082100 -0400" stop="20190223091400 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223091400 -0400" stop="20190223100700 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223100700 -0400" stop="20190223110000 -0400" channel="Animal Planet SD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223110000 -0400" stop="20190223115100 -0400" channel="Animal Planet SD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223115100 -0400" stop="20190223124200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223124200 -0400" stop="20190223133500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223133500 -0400" stop="20190223142800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223142800 -0400" stop="20190223152100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223152100 -0400" stop="20190223161400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223161400 -0400" stop="20190223170700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pesca Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223170700 -0400" stop="20190223180000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223180000 -0400" stop="20190223185100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223185100 -0400" stop="20190223194300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Parasitas Assassinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223194300 -0400" stop="20190223203400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Parasitas Assassinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223203400 -0400" stop="20190223212500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Parasitas Assassinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223212500 -0400" stop="20190223221600 -0400" channel="Animal Planet SD">
+    <title lang="pt">No Mundo dos Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223221600 -0400" stop="20190223230700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Tubarões Vulcânicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190223230700 -0400" stop="20190224000000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Tubarão Tigre: Apetite Voraz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224000000 -0400" stop="20190224005300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Mergulho com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224005300 -0400" stop="20190224014600 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224014600 -0400" stop="20190224023800 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224023800 -0400" stop="20190224033000 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224033000 -0400" stop="20190224042400 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224042400 -0400" stop="20190224051800 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224051800 -0400" stop="20190224054800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224054800 -0400" stop="20190224063900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224063900 -0400" stop="20190224073000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224073000 -0400" stop="20190224082100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224082100 -0400" stop="20190224091400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224091400 -0400" stop="20190224100700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Dodo Heroes: Resgate Sem Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224100700 -0400" stop="20190224110000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Reinos Ocultos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224110000 -0400" stop="20190224115100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Planeta Gelado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224115100 -0400" stop="20190224124200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224124200 -0400" stop="20190224133500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Indochina Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224133500 -0400" stop="20190224142800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Defensores de Baleias</title>
+    <sub-title lang="pt">Ilhas Faroé</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224142800 -0400" stop="20190224152100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Defensores de Baleias</title>
+    <sub-title lang="pt">Ilhas Faroé</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224152100 -0400" stop="20190224161400 -0400" channel="Animal Planet SD">
+    <title lang="pt">África</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224161400 -0400" stop="20190224170700 -0400" channel="Animal Planet SD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224170700 -0400" stop="20190224180000 -0400" channel="Animal Planet SD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224180000 -0400" stop="20190224185100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224185100 -0400" stop="20190224194300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224194300 -0400" stop="20190224203400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224203400 -0400" stop="20190224212500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224212500 -0400" stop="20190224221600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Criadores de Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224221600 -0400" stop="20190224230700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Criadores de Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190224230700 -0400" stop="20190225000000 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225000000 -0400" stop="20190225005300 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Zoológico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225005300 -0400" stop="20190225014600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225014600 -0400" stop="20190225023800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225023800 -0400" stop="20190225033000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225033000 -0400" stop="20190225042400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225042400 -0400" stop="20190225051800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225051800 -0400" stop="20190225054800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225054800 -0400" stop="20190225063900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225063900 -0400" stop="20190225073000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225073000 -0400" stop="20190225082100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225082100 -0400" stop="20190225091400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225091400 -0400" stop="20190225100700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225100700 -0400" stop="20190225110000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225110000 -0400" stop="20190225112600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225112600 -0400" stop="20190225121700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225121700 -0400" stop="20190225124200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225124200 -0400" stop="20190225130900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Instinto de Sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225130900 -0400" stop="20190225140200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Animais das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225140200 -0400" stop="20190225145500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225145500 -0400" stop="20190225154800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225154800 -0400" stop="20190225164100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225164100 -0400" stop="20190225173400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Encontros Ferozes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225173400 -0400" stop="20190225180000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225180000 -0400" stop="20190225182600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225182600 -0400" stop="20190225185100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225185100 -0400" stop="20190225194300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225194300 -0400" stop="20190225203400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225203400 -0400" stop="20190225212500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225212500 -0400" stop="20190225221600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225221600 -0400" stop="20190225230700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190225230700 -0400" stop="20190226000000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226000000 -0400" stop="20190226005300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226005300 -0400" stop="20190226014600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226014600 -0400" stop="20190226023800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226023800 -0400" stop="20190226033000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226033000 -0400" stop="20190226042400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226042400 -0400" stop="20190226051800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226051800 -0400" stop="20190226054800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226054800 -0400" stop="20190226063900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226063900 -0400" stop="20190226073000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226073000 -0400" stop="20190226082100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226082100 -0400" stop="20190226091400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226091400 -0400" stop="20190226100700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226100700 -0400" stop="20190226110000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226110000 -0400" stop="20190226112600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226112600 -0400" stop="20190226121700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226121700 -0400" stop="20190226124200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226124200 -0400" stop="20190226130900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Instinto de Sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226130900 -0400" stop="20190226140200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Animais das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226140200 -0400" stop="20190226145500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226145500 -0400" stop="20190226154800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226154800 -0400" stop="20190226164100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226164100 -0400" stop="20190226173400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Lendas Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226173400 -0400" stop="20190226180000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226180000 -0400" stop="20190226182600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226182600 -0400" stop="20190226185100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226185100 -0400" stop="20190226194300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226194300 -0400" stop="20190226203400 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226203400 -0400" stop="20190226212500 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226212500 -0400" stop="20190226221600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226221600 -0400" stop="20190226230700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190226230700 -0400" stop="20190227000000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Criadores de Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227000000 -0400" stop="20190227005300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Com Terra até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227005300 -0400" stop="20190227014600 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227014600 -0400" stop="20190227023800 -0400" channel="Animal Planet SD">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227023800 -0400" stop="20190227033000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227033000 -0400" stop="20190227042400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227042400 -0400" stop="20190227051800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Criadores de Sonhos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227051800 -0400" stop="20190227054800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227054800 -0400" stop="20190227063900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227063900 -0400" stop="20190227073000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227073000 -0400" stop="20190227082100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227082100 -0400" stop="20190227091400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227091400 -0400" stop="20190227100700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227100700 -0400" stop="20190227110000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227110000 -0400" stop="20190227112600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227112600 -0400" stop="20190227121700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aventura Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227121700 -0400" stop="20190227124200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227124200 -0400" stop="20190227130900 -0400" channel="Animal Planet SD">
+    <title lang="pt">Instinto de Sobrevivência</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227130900 -0400" stop="20190227140200 -0400" channel="Animal Planet SD">
+    <title lang="pt">Animais das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227140200 -0400" stop="20190227145500 -0400" channel="Animal Planet SD">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227145500 -0400" stop="20190227154800 -0400" channel="Animal Planet SD">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227154800 -0400" stop="20190227164100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227164100 -0400" stop="20190227173400 -0400" channel="Animal Planet SD">
+    <title lang="pt">Reinos Ocultos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227173400 -0400" stop="20190227180000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227180000 -0400" stop="20190227182600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227182600 -0400" stop="20190227185100 -0400" channel="Animal Planet SD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227185100 -0400" stop="20190227194300 -0400" channel="Animal Planet SD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227194300 -0400" stop="20190227212500 -0400" channel="Animal Planet SD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227212500 -0400" stop="20190227221600 -0400" channel="Animal Planet SD">
+    <title lang="pt">Natureza Iluminada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227221600 -0400" stop="20190227230700 -0400" channel="Animal Planet SD">
+    <title lang="pt">Os Reis da Selva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190227230700 -0400" stop="20190228000000 -0400" channel="Animal Planet SD">
+    <title lang="pt">Índia: Natureza Revelada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
